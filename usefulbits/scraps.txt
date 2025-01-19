@@ -1,0 +1,23 @@
+       for (int i = 0; i < 5; i++) {
+        System.out.println(i);
+        }
+
+
+
+
+
+
+
+
+        int max = 100;
+        int min = 1;
+        int range = max - min + 1;
+        int randomNumber = (int)(Math.random() * range) + min;
+
+
+
+
+
+
+
+        import java.lang.Math;
