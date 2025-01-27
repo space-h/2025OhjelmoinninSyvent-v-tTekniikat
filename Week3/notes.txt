@@ -1,0 +1,17 @@
+null pointer exception olisi hyvä välttää eikä mennä try catchin kautta
+Mielummin tallentaa muuttujaan ja tarkistaa että onko null.
+
+
+Exception = kaikkien Exceptioneiden yliluokka
+
+jokainen poikkeus on Exceptionin aliluokka
+
+javac (käännös)
+java (ajo)
+
+
+mainin compile uusiksi riittää, kattoo timestampit muista tiedostoista ja ajaa nekin jos on vanhentuneita
+
+luokkien nimit isolla alkukirjaimella, muuttujien nimet pienellä
+
+vakiot ALLCAPS
