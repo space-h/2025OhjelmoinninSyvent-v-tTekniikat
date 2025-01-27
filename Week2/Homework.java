@@ -13,6 +13,7 @@ public class Homework {
         String name = "TODAY";
         System.out.println(name + " = " + System.getenv(name));
 
+        
         LocalDate now = LocalDate.now();
         System.out.println(now);
 
